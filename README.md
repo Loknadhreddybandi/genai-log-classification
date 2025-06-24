@@ -1,4 +1,4 @@
-# 🚀 Log Classification with Hybrid AI Approach  
+# 🚀 System Log Classification using Hybrid AI and FastAPI (CS/ML Integrated System
 This project implements a hybrid log classification system, combining **traditional rule-based methods, machine learning, and Generative AI** for **accurate and scalable log analysis**.  
 
 ---
